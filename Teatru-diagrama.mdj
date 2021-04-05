@@ -253,7 +253,7 @@
 											"top": 170,
 											"width": 146,
 											"height": 13,
-											"text": "Vizualizare detalii locuri"
+											"text": "Vizualizare spectacole"
 										},
 										{
 											"_type": "LabelView",
@@ -289,7 +289,7 @@
 									"font": "Arial;13;0",
 									"left": 153,
 									"top": 163,
-									"width": 157.14501953125,
+									"width": 156,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF4Fd+UZa5dhf0="
@@ -3298,7 +3298,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Vizualizare detalii locuri",
+					"name": "Vizualizare spectacole",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
